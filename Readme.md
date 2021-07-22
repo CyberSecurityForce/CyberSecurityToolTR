@@ -1,7 +1,18 @@
-Cyber Security Tool TR
+       🅲🆈🅱🅴🆁 🆂🅴🅲🆄🆁🅸🆃🆈 🆃🅾🅾🅻 🆃🆁
 
-En Etkili tool içeren bir tool
+En Etkili ve sadece çalışan toollardır 
 
-Sadece Termux da çalışır 
+Çalışmayan toollar silinir çalışan toollar eklenir
 
-İçerisinde bulunan toollar sadece çalışan toollardır
+Sürekli güncelleme gelmektedir 
+
+
+🆂🅸🆂🆃🅴🅼 🅶🅴🆁🅴🅺🆂🅸🅽🅸🅼🅻🅴🆁🅸 
+
+ANDROİD
+
+TERMUX
+
+🅢🅤🅡🅤🅜
+
+1.0 
